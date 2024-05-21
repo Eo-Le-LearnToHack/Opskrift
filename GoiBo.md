@@ -31,7 +31,7 @@
 
 ## Fremgangsmåde:
 ```diff
-@@ Marinér kødet: @@
+# Marinér kødet: #
 @@ text in purple (and bold)@@
 diff --git a/filea.extension b/fileb.extension
 index d28nd309d..b3nu834uj 111111
