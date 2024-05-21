@@ -30,7 +30,7 @@
 - 1/2 tsk finrevet ingefær (valgfrit)
 
 ## Fremgangsmåde:
-```diff
+
 **`Marinér kødet`**
 Bland sojasauce, fiskesauce, sukker, hakket hvidløg, sesamolie og sort peber i en skål. Tilføj oksekødsstrimlerne og sørg for, at de er godt dækket af marinaden. Lad det marinere i køleskabet i mindst 30 minutter, gerne længere.
 
@@ -45,6 +45,6 @@ I en stor skål, kombiner hakket salat, agurk, gulerod, rødløg, mynte, koriand
 
 Servering:
 Server salaten i skåle eller på tallerkener. Drys med ristede peanuts og friske chilier på toppen for ekstra crunch og spice.
-```
+
 
 "Gỏi Bò" er perfekt som en let middag eller som en del af et større måltid. Det er en frisk og smagfuld ret, der helt sikkert vil begejstre alle, der nyder det friske og aromatiske køkken fra Vietnam. Velbekomme!
