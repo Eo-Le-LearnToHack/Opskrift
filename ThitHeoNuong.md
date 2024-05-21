@@ -3,12 +3,11 @@
 </picture>  
   
 # Thit heo nuong
-- 1 kg hakket svinekød 8-12 % fedt
-- 1 tsk salt
-- 1 tsk bagepulver
-- 1/4 tsk bot ngot
-- 1 spsk sukker
-- 2 spsk honning
-- 3 spsk nuoc mam
-- meget hvidlød
-- peber
+- 500 g nakkefilet, skåret i tynde skiver
+- 3 spsk fiskesauce
+- 2 spsk sukker
+- 2 spsk hakket skalotteløg
+- 2 fed hvidløg, hakket
+- 1 spsk hakket citrongræs (valgfrit)
+- 1/2 tsk sort peber
+- 1 spsk vegetabilsk olie
