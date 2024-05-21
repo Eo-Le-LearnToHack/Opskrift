@@ -31,23 +31,28 @@
 
 ## Fremgangsmåde:
 
-**`Marinér kødet`**
-`
-Bland sojasauce, fiskesauce, sukker, hakket hvidløg, sesamolie og sort peber i en skål. 
-Tilføj oksekødsstrimlerne og sørg for, at de er godt dækket af marinaden. Lad det marinere i køleskabet i mindst 30 minutter, gerne længere.
-`
-
-Forbered dressing:
-I en lille skål, bland limejuice, fiskesauce, sukker, hvidløg, chili og ingefær. Rør til sukkeret er opløst. Juster smagen med mere sukker, limejuice eller fiskesauce efter behov.
-
-Steg kødet:
-Opvarm en stor pande eller grillpande over høj varme. Tilføj marineret oksekød og steg i 2-3 minutter, eller indtil det er tilberedt og let brunet. Lad kødet køle lidt af.
-
-Saml salaten:
-I en stor skål, kombiner hakket salat, agurk, gulerod, rødløg, mynte, koriander, og thai basilikum. Tilføj det stegte oksekød og hæld dressingen over. Bland godt.
-
-Servering:
-Server salaten i skåle eller på tallerkener. Drys med ristede peanuts og friske chilier på toppen for ekstra crunch og spice.
-
-
-"Gỏi Bò" er perfekt som en let middag eller som en del af et større måltid. Det er en frisk og smagfuld ret, der helt sikkert vil begejstre alle, der nyder det friske og aromatiske køkken fra Vietnam. Velbekomme!
+**Marinér kødet:**  
+Bland sojasauce, fiskesauce, sukker, hakket hvidløg, sesamolie og sort peber i en skål.  
+Tilføj oksekødsstrimlerne og sørg for, at de er godt dækket af marinaden.  
+Lad det marinere i køleskabet i mindst 30 minutter, gerne længere.  
+  
+**Forbered dressing:**  
+I en lille skål, bland limejuice, fiskesauce, sukker, hvidløg, chili og ingefær.  
+Rør til sukkeret er opløst. Juster smagen med mere sukker, limejuice eller fiskesauce efter behov.  
+  
+**Steg kødet:**  
+Opvarm en stor pande eller grillpande over høj varme.  
+Tilføj marineret oksekød og steg i 2-3 minutter, eller indtil det er tilberedt og let brunet.  
+Lad kødet køle lidt af.  
+  
+**Saml salaten:**  
+I en stor skål, kombiner hakket salat, agurk, gulerod, rødløg, mynte, koriander, og thai basilikum.  
+Tilføj det stegte oksekød og hæld dressingen over. Bland godt.  
+  
+**Servering:**  
+Server salaten i skåle eller på tallerkener.  
+Drys med ristede peanuts og friske chilier på toppen for ekstra crunch og spice.  
+  
+  
+*Gỏi Bò* er perfekt som en let middag eller som en del af et større måltid. 
+Det er en frisk og smagfuld ret, der helt sikkert vil begejstre alle, der nyder det friske og aromatiske køkken fra Vietnam. Velbekomme!
