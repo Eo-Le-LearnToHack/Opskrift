@@ -1,16 +1,6 @@
 <picture>
   <img align="bottom-left" width="100" height="150" alt="Picture of nem nuong" src="https://www.wokandkin.com/wp-content/uploads/2020/10/Nem-Nuong-Close-Up-saved-for-web.png">
-  <img align="left" width="100" height="150" alt="Picture of nem nuong" src="https://via.placeholder.com/15/f03c15/f03c15.png">
-</picture>    
-
-...
-![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png)
-
-
-
-
-
-
+</picture>picture>  
   
 # Nem Nuong
 - 1 kg hakket svinekød 8-12 % fedt
