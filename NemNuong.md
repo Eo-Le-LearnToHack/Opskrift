@@ -1,7 +1,5 @@
 ![](https://www.wokandkin.com/wp-content/uploads/2020/10/Nem-Nuong-Close-Up-saved-for-web.png)  
 <picture>
-  <source align="right" width="100" height="100" media="(prefers-color-scheme: dark)" srcset="https://www.wokandkin.com/wp-content/uploads/2020/10/Nem-Nuong-Close-Up-saved-for-web.png">
-  <source align="right" width="100" height="100" media="(prefers-color-scheme: light)" srcset="https://www.wokandkin.com/wp-content/uploads/2020/10/Nem-Nuong-Close-Up-saved-for-web.png">
   <img align="center" width="100" height="100" alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://www.wokandkin.com/wp-content/uploads/2020/10/Nem-Nuong-Close-Up-saved-for-web.png">
 </picture>  
 
@@ -15,3 +13,6 @@
 - 3 spsk nuoc mam
 - meget hvidlød
 - peber
+
+- <source align="right" width="100" height="100" media="(prefers-color-scheme: dark)" srcset="https://www.wokandkin.com/wp-content/uploads/2020/10/Nem-Nuong-Close-Up-saved-for-web.png">
+  <source align="right" width="100" height="100" media="(prefers-color-scheme: light)" srcset="https://www.wokandkin.com/wp-content/uploads/2020/10/Nem-Nuong-Close-Up-saved-for-web.png">
