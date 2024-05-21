@@ -33,6 +33,13 @@
 ```diff
 @@ Marinér kødet: @@
 @@ text in purple (and bold)@@
+diff --git a/filea.extension b/fileb.extension
+index d28nd309d..b3nu834uj 111111
+--- a/filea.extension
++++ b/fileb.extension
+@@ -1,6 +1,6 @@
+-oldLine
++newLine
 Bland sojasauce, fiskesauce, sukker, hakket hvidløg, sesamolie og sort peber i en skål. Tilføj oksekødsstrimlerne og sørg for, at de er godt dækket af marinaden. Lad det marinere i køleskabet i mindst 30 minutter, gerne længere.
 
 Forbered dressing:
