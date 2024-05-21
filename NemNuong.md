@@ -1,6 +1,5 @@
-![](https://www.wokandkin.com/wp-content/uploads/2020/10/Nem-Nuong-Close-Up-saved-for-web.png)  
 <picture>
-  <img align="left" width="200" height="100" alt="Picture of nem nuong" src="https://www.wokandkin.com/wp-content/uploads/2020/10/Nem-Nuong-Close-Up-saved-for-web.png">
+  <img align="right" width="100" height="200" alt="Picture of nem nuong" src="https://www.wokandkin.com/wp-content/uploads/2020/10/Nem-Nuong-Close-Up-saved-for-web.png">
 </picture>  
 
 # Nem Nuong
