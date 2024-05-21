@@ -1,6 +1,6 @@
 ![](https://www.wokandkin.com/wp-content/uploads/2020/10/Nem-Nuong-Close-Up-saved-for-web.png)  
 <picture>
-  <img align="center" width="100" height="100" alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://www.wokandkin.com/wp-content/uploads/2020/10/Nem-Nuong-Close-Up-saved-for-web.png">
+  <img align="bottom" width="200" height="200" alt="Picture of nem nuong" src="https://www.wokandkin.com/wp-content/uploads/2020/10/Nem-Nuong-Close-Up-saved-for-web.png">
 </picture>  
 
 # Nem Nuong
