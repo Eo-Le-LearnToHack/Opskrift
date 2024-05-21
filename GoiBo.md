@@ -1,5 +1,5 @@
 <picture>
-    <img align="" width="100" height="100" alt="Picture of Goi Bo" src="https://spicytwist.dk/wp-content/uploads/2018/06/Vietnamesisk-oksekoedssalat.jpg">
+    <img align="" width="200" height="180" alt="Picture of Goi Bo" src="https://spicytwist.dk/wp-content/uploads/2018/06/Vietnamesisk-oksekoedssalat.jpg">
 </picture>
 
 # Goi Bo
