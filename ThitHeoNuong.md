@@ -1,5 +1,5 @@
 <picture>
-  <img align="left" width="150" height="100" alt="Picture of thit heo nuong" src="https://cdn.pastaxi-manager.onepas.vn/content/uploads/articles/vuvu/BLOG/cach-uop-thit-ba-chi-nuong/cach-uop-thit-ba-chi-nuong-sieu-ngon-4.jpg">
+  <img align="" width="150" height="100" alt="Picture of thit heo nuong" src="https://cdn.pastaxi-manager.onepas.vn/content/uploads/articles/vuvu/BLOG/cach-uop-thit-ba-chi-nuong/cach-uop-thit-ba-chi-nuong-sieu-ngon-4.jpg">
 </picture>  
   
 # Thit heo nuong
