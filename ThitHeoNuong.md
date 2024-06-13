@@ -4,7 +4,7 @@
   
 # Thit heo nuong
 - 500 g nakkefilet, skåret i tynde skiver
-- 3 spsk fiskesauce
+- 4 spsk fiskesauce
 - 2 spsk sukker
 - 2 spsk hakket skalotteløg
 - 2 fed hvidløg, hakket
