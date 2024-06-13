@@ -11,8 +11,8 @@
 - 2 fed hvidløg, fint hakket
 - 1 skalotteløg, fint hakket
 - 1 spsk tapioca opblandet i vand
-- Olie til stegning
-**    
+- Olie til stegning  
+##      
   
 **Fremgangsmåde**  
 - Snit et kryds på tomaterne og kog dem i vand.
